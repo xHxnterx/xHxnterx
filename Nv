@@ -1,12 +1,7 @@
-import pandas as pd
-import numpy as np
+pip install matplotlib
+import matplot.pyplot as plt
 
 !git clone https://github.com/xHxnterx/xHxnterx/blob/main/test
 %cd test
 
-import time
-import math
-from xHxnterx import Sequential
-import numpy as np
-import pandas as pd
-import sklearn.preprocessing as prep
+plt.plot 
